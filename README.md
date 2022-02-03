@@ -13,13 +13,13 @@ The leaderboard website displays scores submitted by different players. It also 
 
 ## Link
 
-This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/leaderboard/dist/).
+This site was built using [GitHub Pages](https://https://ismailakinkunmi.github.io/Leaderboard/dist/).
 
 ## Usage
 
 start by cloning this repository by running:
 
-git clone git@github.com:ismailakinkunmi/leaderboard-app.git
+git clone git@github.com:ismailakinkunmi/leaderboard.git
 
 cd to the folder
 
