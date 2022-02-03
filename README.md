@@ -13,7 +13,7 @@ The leaderboard website displays scores submitted by different players. It also 
 
 ## Link
 
-This site was built using [GitHub Pages](https://https://ismailakinkunmi.github.io/Leaderboard/dist/).
+This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Leaderboard/dist/).
 
 ## Usage
 
