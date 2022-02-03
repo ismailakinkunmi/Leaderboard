@@ -1,2 +1,5 @@
 node_modules/
 dist/
+.hintrc/
+.stylelintrc/
+.eslintrc.json/

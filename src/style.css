@@ -1,3 +1,87 @@
-hello {
-  color: red;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: cursive;
+}
+
+main {
+  padding: 20px;
+  margin: 35px 25px 0 25px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.main-section {
+  display: flex;
+  gap: 100px;
+  margin: 50px;
+}
+
+.recent-score {
+  display: flex;
+  margin-bottom: 40px;
+  gap: 50px;
+}
+
+.recent-score h2 {
+  font-size: 32px;
+}
+
+.refresh-btn {
+  font-size: 30px;
+  padding: 0 3px;
+  border: 2px solid black;
+  background-color: white;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 5px 5px #000;
+}
+
+.scorelist {
+  list-style-type: none;
+  border: 3px solid #000;
+}
+
+.score {
+  padding: 5px 5px;
+  font-weight: bold;
+}
+
+.score:nth-child(even) {
+  background-color: rgba(128, 128, 128, 0.288);
+}
+
+.formdata {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+input {
+  padding: 10px;
+  font-weight: 900;
+  border: 2px solid #000;
+}
+
+.input-score h2 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.add-btn {
+  display: flex;
+  align-self: flex-end;
+  font-size: 24px;
+  background-color: white;
+  border: 2px solid black;
+  padding: 0 5px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 5px 5px black;
 }
