@@ -17,13 +17,15 @@ This site was built using [GitHub Pages](https://https://ismailakinkunmi.github.
 
 ## Usage
 
-start by cloning this repository by running:
+- start by cloning this repository by running:
 
-git clone git@github.com:ismailakinkunmi/leaderboard.git
+- git clone git@github.com:ismailakinkunmi/leaderboard.git
 
-cd to the folder
+- cd to the folder
 
-cd Project-Webpack
+- cd Project-Leaderboard
+
+- run npm start
 
 ## Authors
 
