@@ -83,7 +83,7 @@ h2 {
 }
 
 .scores-list li:nth-child(2n) {
-  background-color: #eae8e8;
+  background: #eae8e8;
 }
 
 .no-data-found {
