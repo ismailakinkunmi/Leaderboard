@@ -17,15 +17,15 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Leade
 
 ## Usage
 
-- start by cloning this repository by running:
+start by cloning the following command in your local machine:
 
 - git clone git@github.com:ismailakinkunmi/leaderboard.git
 
-- cd to the folder
+- cd leaderboard
 
-- cd Project-Leaderboard
+- npm i
 
-- run npm start
+- npm start
 
 ## Authors
 
