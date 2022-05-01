@@ -2,45 +2,33 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>Leaderboard</title>
   <script defer src="main.js"></script></head>
+
   <body>
-    <main>
-      <div class="head">
-        <h1>Leaderboard</h1>
+    <header>
+      <h1>Leaderboard</h1>
+    </header>
+    <section class="board-section">
+      <div class="result">
+        <div class="titles">
+          <h2>Recent Score</h2>
+          <button type="button" class="btn refresh" id="refresh">
+            Refresh
+          </button>
+        </div>
+        <ul class="scores-list" id="list"></ul>
       </div>
-
-      <section class="main-section">
-        <div class="scores-head">
-          <div class="recent-score">
-            <h2>Recent Scores</h2>
-            <button type="button" class="refresh-btn">Refresh</button>
-          </div>
-
-          <div class="score-table">
-            <ul class="scorelist">
-              <li class="score">James: 100</li>
-              <li class="score">Tim: 200</li>
-              <li class="score">David: 120</li>
-              <li class="score">Henry: 211</li>
-              <li class="score">John: 210</li>
-              <li class="score">Thomas: 100</li>
-              <li class="score">Gerald: 100</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="input-score">
-          <h2>Add your score</h2>
-          <form class="formdata">
-            <input type="text" placeholder="Your name" />
-            <input type="number" placeholder="Your score" />
-            <button class="add-btn" type="button">Submit</button>
-          </form>
-        </div>
-      </section>
-    </main>
+      <div class="score-form">
+        <h2>Add your Score</h2>
+        <form action="#" id="submit-data">
+          <input type="text" id="fullname" placeholder="Your name" />
+          <input type="number" id="score" placeholder="Your Score" />
+          <button type="submit" class="btn submit-form">Submit</button>
+        </form>
+      </div>
+    </section>
   </body>
 </html>

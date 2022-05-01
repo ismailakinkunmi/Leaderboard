@@ -19,13 +19,13 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Leade
 
 start by cloning the following command in your local machine:
 
-git clone git@github.com:ismailakinkunmi/leaderboard.git
+- git clone git@github.com:ismailakinkunmi/leaderboard.git
 
-cd leaderboard
+- cd leaderboard
 
-npm i
+- npm i
 
-npm start
+- npm start
 
 ## Authors
 
