@@ -17,7 +17,7 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Leade
 
 ## Usage
 
-start by cloning the following command in your local machine:
+start by running the following command in your local machine:
 
 - git clone git@github.com:ismailakinkunmi/leaderboard.git
 
