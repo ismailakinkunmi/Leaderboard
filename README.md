@@ -33,7 +33,7 @@ start by running the following command in your local machine:
 
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
 - Twitter: [@AkinkunmiAbiola](https://twitter.com/AkinkunmiAbiola)
-- LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/)
+- LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/adismail4/)
 
 ## Show your support
 
