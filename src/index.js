@@ -1,11 +1,10 @@
-/* eslint-disable operator-linebreak */
 import "./style.css";
 
 const username = document.getElementById("fullname");
 const userScore = document.getElementById("score");
 const btn = document.querySelector("form");
 const url =
-  "https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/UbOmK2M7Lmj63DwuaTqr/scores";
+  "https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/1d9458c6-9d48-48f9-a796-24af62abe570/scores";
 
 const postScore = async () => {
   const response = await fetch(url, {

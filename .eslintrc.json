@@ -12,6 +12,7 @@
   "extends": ["airbnb-base"],
   "rules": {
     "linebreak-style": "off",
+    "operator-linebreak": "off",
     "quotes": [0, "single", { "avoidEscape": true }],
     "no-shadow": "off",
     "no-param-reassign": "off",
