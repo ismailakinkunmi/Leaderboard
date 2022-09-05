@@ -27,12 +27,11 @@ start by running the following command in your local machine:
 
 - npm start
 
-## Authors
+## Author
 
 👤 **Adekunle Ismail Akinkunmi**
 
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
-- Twitter: [@AkinkunmiAbiola](https://twitter.com/AkinkunmiAbiola)
 - LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/adismail4/)
 
 ## Show your support
@@ -41,4 +40,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Hat tip 👒 to microverse for the opportunity, code reviewers and my coding partners.
+Hat tip 👒 to microverse for the opportunity and support
+Hat tip to code reviewers and my coding partners for their support.
+
+## 📝 License
+
+- This project is [MIT](./LICENSE) licensed.
