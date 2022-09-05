@@ -40,8 +40,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Hat tip 👒 to microverse for the opportunity and support
-Hat tip to code reviewers and my coding partners for their support.
+- Hat tip 👒 to microverse for the opportunity and support
+- Hat tip to code reviewers and my coding partners for their support.
 
 ## 📝 License
 
