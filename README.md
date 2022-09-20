@@ -36,14 +36,18 @@ start by running the following command in your local machine:
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
 - LinkedIn: [@akinkunmi-adekunle](https://www.linkedin.com/in/adismail4/)
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
 - Hat tip 👒 to microverse for the opportunity and support
 - Hat tip to code reviewers and my coding partners for their support.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## 📝 License
 
