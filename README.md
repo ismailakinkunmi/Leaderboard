@@ -1,8 +1,10 @@
 # Leaderboard
 
+The leaderboard website displays scores submitted by different players.
+
 ![Screenshot (81)](https://user-images.githubusercontent.com/37457094/152144112-8ab08e78-58cc-418c-a08b-3cee0a6d8354.png)
 
-The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+This project is from microverse javascript curriculum which tests student's ability on using webpack in a real life project
 
 ## Tecnologies Used
 
